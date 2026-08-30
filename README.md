@@ -10,4 +10,4 @@ An interactive Python application built using Tkinter and Matplotlib to calculat
 ## Technologies Used
 - Python
 - Tkinter & Matplotlib
--
+
